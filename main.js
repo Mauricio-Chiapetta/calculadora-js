@@ -15,7 +15,7 @@ document.querySelectorAll('.charKey').forEach((charKeyBtn) => {
 })
 // clean (C)
 document.getElementById('clear').addEventListener('click', () => {
-    input.value = input.value.slice(0, 0) //também pode usar uma string vazia => input.value = ''
+    input.value = input.value.slice(0, 0) //you can also use an empty string => input.value = ''
     input.focus()
 })
 // result(=)
