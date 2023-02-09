@@ -1,13 +1,13 @@
 ## calculadora-js
 Calculadora simples feito em Html , Css , Javascript
 <br>
--responsiva
-<br>
--botão de opção para troca de tema
-<br>
--botão copy to clipboard
-<br>
-<hr>
+- responsiva
+
+- botão de opção para troca de tema
+
+- botão copy to clipboard
+
+
 
 ## -Tema Escuro(Padrão)
 ![2023-02-09](https://user-images.githubusercontent.com/122037079/217711841-56d1da58-e1e8-407c-adb0-ef2ad6d89c4c.png)
