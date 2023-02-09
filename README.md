@@ -5,7 +5,7 @@ Calculadora simples feito em Html , Css , Javascript
 <br>
 -botão de opção para troca de tema
 <br>
--botão copy to clipbord
+-botão copy to clipboard
 <br>
 <hr>
 
