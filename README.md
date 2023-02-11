@@ -16,5 +16,6 @@ Calculadora simples feito em Html , Css , Javascript
 
 ## -Tema claro
 
-![calcjsclaro](https://user-images.githubusercontent.com/122037079/217712364-b711d260-19b7-4856-889b-7cb13580e12a.png)
+![calcjsclaro](https://user-images.githubusercontent.com/122037079/218276292-8a0ee861-297a-4299-80ac-d4d1661b64c2.png)
+
 
