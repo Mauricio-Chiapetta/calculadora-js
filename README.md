@@ -7,6 +7,8 @@ Calculadora simples feito em Html , Css , Javascript
 
 - botão copy to clipboard
 
+- link para acessar: https://calculadora-js-lac.vercel.app/
+
 
 
 ## -Tema Escuro(Padrão)
