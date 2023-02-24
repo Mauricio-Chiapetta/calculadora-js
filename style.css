@@ -22,7 +22,7 @@
   main {
     display: block;
     margin: 0 auto;
-    max-width: 35rem;
+    max-width: 25rem;
     padding: 0 1.5rem 2.5rem;
     position: relative;
   }
@@ -34,7 +34,7 @@
   #themeSwitcher {
     background-color: var(--border-color);
     border: 1px solid transparent;
-    color: var(--font-color);
+    color: #fff;
   }
   
   #themeSwitcher:hover {
@@ -85,7 +85,7 @@
   #keys {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
-    gap: 1rem;
+    gap: 4px;
     margin: 2rem 0;
   }
   
