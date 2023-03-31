@@ -5,7 +5,6 @@ export default () => {
     root.style.setProperty("--bg-color", "#f1f5f9");
     root.style.setProperty("--font-color", "#212529");
     root.style.setProperty("--border-color", "#212529");
-    root.style.setProperty("--primary-color", "#1d55a8");
     main.dataset.theme = "light";
   } else {
     root.style.setProperty("--bg-color", "#212529");
